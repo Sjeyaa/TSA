@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "6742bc65d74063405bfda9b8"
+  },
+  "username": "Admin",
+  "password": "$2b$10$A6K4jpWl2LGh2VAFMSC8eO9QDQty4ooypCOIH5ZMl/Codub9mGSTG",
+  "email": "admin@gmail.com",
+  "phone": "6789087652",
+  "department": "Admin",
+  "business_unit": "A",
+  "role": "Admin",
+  "created_at": {
+    "$date": "2024-11-24T05:40:53.778Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-24T05:40:53.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674419a7d2bdc2da71d338e2"
+  },
+  "username": "Aravinth",
+  "password": "$2b$10$uOcyBSOJ9nhK5QM3JQvGVeVOK9aU4SfqAE9mrYusM/YpFScrPyIN2",
+  "email": "jeyaaravinths@gmail.com",
+  "phone": "9629424050",
+  "department": {
+    "$oid": "67441dfa14d965cbe29d54bd"
+  },
+  "business_unit": {
+    "$oid": "67441d5614d965cbe29d5498"
+  },
+  "role": "User",
+  "created_at": {
+    "$date": "2024-11-25T06:31:03.816Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-28T13:45:16.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745d736afad4729fe9e43f4"
+  },
+  "username": "Test1",
+  "password": "$2b$10$MwtLtWQFAq9pUpBWmQ6CUOEDLJOrsHgZN4h9CGyVMPZINJ.dIKlMy",
+  "email": "953621104019@ritrjpm.ac.in",
+  "phone": "9629424090",
+  "department": {
+    "$oid": "67441dfa14d965cbe29d54bd"
+  },
+  "business_unit": {
+    "$oid": "67441d5614d965cbe29d5498"
+  },
+  "role": "User",
+  "created_at": {
+    "$date": "2024-11-26T14:12:06.770Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-27T11:41:58.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67474bcb9b1f7121273df7b6"
+  },
+  "username": "Arun",
+  "password": "$2b$10$4YFF/K5yoW/8CLjW1.gzf.6gIipOJ/4F69v6wLyFwTQGg3qAwSnaK",
+  "email": "arunbalaji.g.a@gmail.com",
+  "phone": "8610910898",
+  "department": {
+    "$oid": "6747101ade2606453b515881"
+  },
+  "business_unit": {
+    "$oid": "67470ed44850887a1c68084a"
+  },
+  "role": "User",
+  "created_at": {
+    "$date": "2024-11-27T16:41:47.330Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-27T16:41:47.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6748226dd2c81832a7a851f3"
+  },
+  "username": "Vignesh Prabhu",
+  "password": "$2b$10$wqiiqee3hbqBn5kUcytFHuhRnlKll2rFB1kfX428cNQ6tWBe.Hr7O",
+  "email": "953621104058@ritrjpm.ac.in",
+  "phone": "6396004789",
+  "department": {
+    "$oid": "6747101ade2606453b515881"
+  },
+  "business_unit": {
+    "$oid": "67470ed44850887a1c68084a"
+  },
+  "role": "User",
+  "created_at": {
+    "$date": "2024-11-28T07:57:33.102Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-28T13:45:05.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674981affce6c276500f0652"
+  },
+  "username": "Vijayasarathy S",
+  "password": "$2b$10$pHNbN.72HM1p7MjfwEaTCuZ3tziS/YzApRQeIPCKokPFDU7KF.gcy",
+  "email": "953621104059@ritrjpm.ac.in",
+  "phone": "6374471842",
+  "department": {
+    "$oid": "67441dfa14d965cbe29d54bd"
+  },
+  "business_unit": {
+    "$oid": "67441de514d965cbe29d54ac"
+  },
+  "role": "User",
+  "created_at": {
+    "$date": "2024-11-29T08:56:15.262Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-29T08:56:15.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d78afce306be2c66f1cfd"
+  },
+  "username": "Anish Kumar",
+  "password": "$2b$10$Oz0kjinH6qMU29hQAuphweYNefSH15gVf9vXHgClgYDujBhPo.sMW",
+  "email": "anishrkumar2k5@gmail.com",
+  "phone": "7806872997",
+  "department": {
+    "$oid": "6743f8f1ea8ed441114cea51"
+  },
+  "business_unit": {
+    "$oid": "67433e9bac297df87a582e33"
+  },
+  "role": "User",
+  "created_at": {
+    "$date": "2024-12-02T09:06:55.994Z"
+  },
+  "updated_at": {
+    "$date": "2024-12-02T09:06:55.994Z"
+  },
+  "__v": 0
+}]
